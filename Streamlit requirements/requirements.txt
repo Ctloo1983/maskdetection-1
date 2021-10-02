@@ -1,0 +1,7 @@
+numpy==1.19.5
+matplotlib
+seaborn
+sklearn
+streamlit==0.82.0
+opencv-python-headless
+tensorflow-cpu>=2.5.0*
