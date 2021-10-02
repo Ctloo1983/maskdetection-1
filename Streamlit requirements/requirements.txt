@@ -1,6 +1,0 @@
-numpy==1.19.5
-keras==2.4.3
-matplotlib
-seaborn
-sklearn
-tensorflow
