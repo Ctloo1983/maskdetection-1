@@ -1,7 +1,0 @@
-numpy==1.19.5
-matplotlib
-seaborn
-sklearn
-tensorflow==2.2
-keras==2.4.3
-h5py==3.4.0
